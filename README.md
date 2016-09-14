@@ -1,7 +1,5 @@
 JCS WORD PREDICTOR
 ========================================================
-transition: rotate
-
 <br>
 App : [Predicting your next words](http://jcohensolal.shinyapps.io/JCSWordPredictor)
 <br><br>
@@ -18,7 +16,6 @@ Originally implemented as the Capstone Project of the Data Science Specializatio
 
 Presenting the App
 ========================================================
-type: section
 <small>
 
 * High-quality word suggestions 
@@ -38,10 +35,6 @@ type: section
 
 User Instructions
 ========================================================
-type: section
-left: 60%
-![screenshot](screenshot.JPG)
-***
 <small>
 
 1. Choose the number of suggestions you want on top-right. Uncheck the *Profanity Filter* if you want to. 
@@ -58,8 +51,6 @@ left: 60%
 
 Technical Details
 ========================================================
-type: section
-
 The Corpus
 
 <small>
@@ -82,9 +73,6 @@ To allow for quick, yet efficient word suggestions, the focus was on making the 
 </small>
 <br><br>
 
-Technical Details - cont.
-========================================================
-type: section
 The Algorithm
 
 <small>
